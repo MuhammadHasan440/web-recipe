@@ -1,0 +1,16 @@
+.text-brown{
+    color: brown;
+}
+.font-chango{
+    font-family:'chango';
+    font-size: 22px;
+    font-weight: 1000;
+}
+.bg-white{
+    background-color:burlywood;
+}
+@media(max-width:720px){
+    .wrap-m{
+        flex-wrap: wrap;
+    }
+}
